@@ -1,0 +1,437 @@
+2021-06-04 00:23:13 INFO  program -1:24 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 00:23:13 INFO  program -1:39 - navigating to ACTITIME url
+2021-06-04 00:23:17 INFO  program -1:53 - Logging in as admin
+2021-06-04 00:23:21 INFO  program -1:69 - minimizing fly out window
+2021-06-04 00:23:23 INFO  program -1:83 - creating  users
+2021-06-04 00:23:24 INFO  program -1:107 - Deleting users
+2021-06-04 00:23:24 INFO  program -1:128 - logging out from ACTITIME website
+2021-06-04 00:23:26 INFO  program -1:142 - closing the browser
+2021-06-04 00:23:30 INFO  program -1:144 - ************************************************************************
+2021-06-04 00:23:30 INFO  program -2:14 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 00:23:30 INFO  program -2:15 - navigating to ACTITIME url
+2021-06-04 00:23:35 INFO  program -2:17 - Logging in as admin
+2021-06-04 00:23:38 INFO  program -2:19 - minimizing fly out window
+2021-06-04 00:23:42 INFO  program -2:35 - creating  users
+2021-06-04 00:23:43 INFO  program -2:59 - modifying  users
+2021-06-04 00:23:44 INFO  program -2:77 - Deleting users
+2021-06-04 00:23:45 INFO  program -2:97 - logging out from ACTITIME website
+2021-06-04 00:23:45 INFO  program -2:99 - closing the browser
+2021-06-04 00:23:45 INFO  program -2:100 - ************************************************************************
+2021-06-04 00:23:50 INFO  program -3:12 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 00:23:50 INFO  program -3:13 - navigating to ACTITIME url
+2021-06-04 00:23:54 INFO  program -3:15 - Logging in as admin
+2021-06-04 00:23:58 INFO  program -3:17 - minimizing fly out window
+2021-06-04 00:24:05 INFO  program -3:32 - creating  costumers
+2021-06-04 00:24:06 INFO  program -3:53 - Deleting  customers
+2021-06-04 00:24:06 INFO  program -3:72 - logging out from ACTITIME website
+2021-06-04 00:24:07 INFO  program -3:74 - closing the browser
+2021-06-04 00:24:07 INFO  program -3:75 - ************************************************************************
+2021-06-04 00:24:12 INFO  program -4:12 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 00:24:12 INFO  program -4:13 - navigating to ACTITIME url
+2021-06-04 00:24:17 INFO  program -4:15 - Logging in as admin
+2021-06-04 00:24:20 INFO  program -4:17 - minimizing fly out window
+2021-06-04 00:24:24 INFO  program -4:32 - creating  customers
+2021-06-04 00:24:32 INFO  program -4:41 - created  customers
+2021-06-04 00:24:32 INFO  program -4:53 - modifying customers
+2021-06-04 00:24:39 INFO  program -4:60 - modified  customers
+2021-06-04 00:24:39 INFO  program -4:72 - Deleting  customers
+2021-06-04 00:24:46 INFO  program -4:81 - Deleted  customers
+2021-06-04 00:24:46 INFO  program -4:91 - logging out from ACTITIME website
+2021-06-04 00:24:47 INFO  program -4:93 - closing the browser
+2021-06-04 00:24:47 INFO  program -4:94 - ************************************************************************
+2021-06-04 00:24:47 INFO  program -5:12 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 00:24:47 INFO  program -5:13 - navigating to ACTITIME url
+2021-06-04 00:24:52 INFO  program -5:15 - Logging in as admin
+2021-06-04 00:24:56 INFO  program -5:17 - minimizing fly out window
+2021-06-04 00:25:00 INFO  program -5:32 - creating  customers
+2021-06-04 00:25:01 INFO  program -5:53 - creating project
+2021-06-04 00:25:01 INFO  program -5:73 - deleting project
+2021-06-04 00:25:01 INFO  program -5:93 - Deleting  customers
+2021-06-04 00:25:01 INFO  program -5:111 - logging out from ACTITIME website
+2021-06-04 00:25:02 INFO  program -5:113 - closing the browser
+2021-06-04 00:25:02 INFO  program -5:114 - ************************************************************************
+2021-06-04 00:32:34 INFO  program -6:12 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 00:32:34 INFO  program -6:13 - navigating to ACTITIME url
+2021-06-04 00:32:40 INFO  program -6:15 - Logging in as admin
+2021-06-04 00:32:43 INFO  program -6:17 - minimizing fly out window
+2021-06-04 00:32:47 INFO  program -6:32 - creating  customers
+2021-06-04 00:32:48 INFO  program -6:53 - creating project
+2021-06-04 00:32:48 INFO  program -6:72 - modify project
+2021-06-04 00:32:48 INFO  program -6:91 - deleting project
+2021-06-04 00:32:48 INFO  program -6:111 - Deleting  customers
+2021-06-04 00:32:48 INFO  program -6:129 - logging out from ACTITIME website
+2021-06-04 00:32:50 INFO  program -6:131 - closing the browser
+2021-06-04 00:32:50 INFO  program -6:132 - ************************************************************************
+2021-06-04 00:42:49 INFO  program -7:12 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 00:42:49 INFO  program -7:13 - navigating to ACTITIME url
+2021-06-04 00:42:55 INFO  program -7:15 - Logging in as admin
+2021-06-04 00:42:59 INFO  program -7:17 - minimizing fly out window
+2021-06-04 00:43:03 INFO  program -7:32 - creating  customers
+2021-06-04 00:43:10 INFO  program -7:41 - created  customers
+2021-06-04 00:43:10 INFO  program -7:53 - creating project
+2021-06-04 00:43:15 INFO  program -7:60 - created project
+2021-06-04 00:43:15 INFO  program -7:72 - creating Three different Task
+2021-06-04 00:43:27 INFO  program -7:82 - created Task
+2021-06-04 00:43:28 INFO  program -7:97 - Deleting Task1
+2021-06-04 00:43:37 INFO  program -7:104 - Deleted Task1
+2021-06-04 00:43:37 INFO  program -7:97 - Deleting Task2
+2021-06-04 00:43:42 INFO  program -7:104 - Deleted Task2
+2021-06-04 00:43:42 INFO  program -7:97 - Deleting Task3
+2021-06-04 00:43:48 INFO  program -7:104 - Deleted Task3
+2021-06-04 00:43:48 INFO  program -7:115 - logging out from ACTITIME website
+2021-06-04 00:43:49 INFO  program -7:117 - closing the browser
+2021-06-04 00:43:49 INFO  program -7:118 - ************************************************************************
+2021-06-04 01:04:40 INFO  program -8:16 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 01:04:40 INFO  program -8:17 - navigating to ACTITIME url
+2021-06-04 01:04:47 INFO  program -8:19 - Logging in as admin
+2021-06-04 01:04:50 INFO  program -8:21 - minimizing fly out window
+2021-06-04 01:04:55 INFO  program -8:37 - =====================================================================================================================
+2021-06-04 01:04:55 INFO  program -8:40 - creating user 1
+2021-06-04 01:05:01 INFO  program -8:51 - created user 1
+2021-06-04 01:05:01 INFO  program -8:40 - creating user 2
+2021-06-04 01:05:06 INFO  program -8:51 - created user 2
+2021-06-04 01:05:06 INFO  program -8:40 - creating user 3
+2021-06-04 01:05:11 INFO  program -8:51 - created user 3
+2021-06-04 01:05:11 INFO  program -8:53 - =====================================================================================================================
+2021-06-04 01:05:11 INFO  program -8:65 - =====================================================================================================================
+2021-06-04 01:05:11 INFO  program -8:66 - logging out as admin from ACTITIME website
+2021-06-04 01:05:12 INFO  program -8:68 - logging in as user 1 
+2021-06-04 01:05:20 INFO  program -8:74 - logging out as user 1  from ACTITIME website
+2021-06-04 01:05:21 INFO  program -8:85 - logging in as user 2 
+2021-06-04 01:05:28 INFO  program -8:91 - logging out as user 2  from ACTITIME website
+2021-06-04 01:05:28 INFO  program -8:102 - logging in as user 3 
+2021-06-04 01:05:37 INFO  program -8:108 - logging out as user 3  from ACTITIME website
+2021-06-04 01:05:37 INFO  program -8:109 - =====================================================================================================================
+2021-06-04 01:05:37 INFO  program -8:119 - =====================================================================================================================
+2021-06-04 01:05:37 INFO  program -8:120 - Logging in as admin
+2021-06-04 01:05:40 INFO  program -8:124 - deleting user 1
+2021-06-04 01:05:48 INFO  program -8:130 - deleted user 1
+2021-06-04 01:05:48 INFO  program -8:124 - deleting user 2
+2021-06-04 01:05:55 INFO  program -8:130 - deleted user 2
+2021-06-04 01:05:55 INFO  program -8:124 - deleting user 3
+2021-06-04 01:06:01 INFO  program -8:130 - deleted user 3
+2021-06-04 01:06:01 INFO  program -8:133 - =====================================================================================================================
+2021-06-04 01:06:01 INFO  program -8:146 - logging out from ACTITIME website
+2021-06-04 01:06:02 INFO  program -8:148 - closing the browser
+2021-06-04 01:06:02 INFO  program -8:149 - ************************************************************************
+2021-06-04 01:06:02 INFO  program -9:16 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-04 01:06:02 INFO  program -9:17 - navigating to ACTITIME url
+2021-06-04 01:06:06 INFO  program -9:19 - Logging in as admin
+2021-06-04 01:06:10 INFO  program -9:21 - minimizing fly out window
+2021-06-04 01:06:14 INFO  program -9:37 - =====================================================================================================================
+2021-06-04 01:06:14 INFO  program -9:38 - creating user 1
+2021-06-04 01:06:19 INFO  program -9:50 - created user 1
+2021-06-04 01:06:21 INFO  program -9:52 - logging out from ACTITIME website
+2021-06-04 01:06:21 INFO  program -9:63 - login as user 1
+2021-06-04 01:06:28 INFO  program -9:80 - creating user 2
+2021-06-04 01:06:34 INFO  program -9:92 - created user 2
+2021-06-04 01:06:36 INFO  program -9:94 - logging out from ACTITIME website
+2021-06-04 01:06:36 INFO  program -9:105 - login as user 2
+2021-06-04 01:06:42 INFO  program -9:124 - creating user 3
+2021-06-04 01:06:48 INFO  program -9:136 - created user 3
+2021-06-04 01:06:50 INFO  program -9:138 - logging out from ACTITIME website
+2021-06-04 01:06:55 INFO  program -9:140 - log in as admin
+2021-06-04 01:06:55 INFO  program -9:141 - =====================================================================================================================
+2021-06-04 01:06:55 INFO  program -9:153 - =====================================================================================================================
+2021-06-04 01:06:55 INFO  program -9:154 - modifying user 1
+2021-06-04 01:07:07 INFO  program -9:165 - modified user 1
+2021-06-04 01:07:09 INFO  program -9:167 - logging out from ACTITIME website
+2021-06-04 01:07:09 INFO  program -9:180 - login as modified user 1
+2021-06-04 01:07:13 INFO  program -9:196 - modifying user 2
+2021-06-04 01:07:25 INFO  program -9:207 - modified user 2
+2021-06-04 01:07:27 INFO  program -9:209 - logging out from ACTITIME website
+2021-06-04 01:07:27 INFO  program -9:221 - log in as modified user 2
+2021-06-04 01:07:31 INFO  program -9:237 - modifying user 3
+2021-06-04 01:07:43 INFO  program -9:248 - modified user 3
+2021-06-04 01:07:45 INFO  program -9:250 - logging out from ACTITIME website
+2021-06-04 01:07:45 INFO  program -9:251 - =====================================================================================================================
+2021-06-04 01:07:45 INFO  program -9:262 - =====================================================================================================================
+2021-06-04 01:07:45 INFO  program -9:263 - log in as modified user 2
+2021-06-04 01:07:45 INFO  program -9:221 - log in as modified user 2
+2021-06-04 01:07:50 INFO  program -9:265 - deleting modified user 3
+2021-06-04 01:07:58 INFO  program -9:271 - deleted modified user 3
+2021-06-04 01:07:59 INFO  program -9:273 - logging out from ACTITIME website
+2021-06-04 01:07:59 INFO  program -9:284 - log in as modified user 1
+2021-06-04 01:07:59 INFO  program -9:180 - login as modified user 1
+2021-06-04 01:08:05 INFO  program -9:286 - deleting modified user 2
+2021-06-04 01:08:12 INFO  program -9:292 - deleting modified user 2
+2021-06-04 01:08:14 INFO  program -9:294 - logging out from ACTITIME website
+2021-06-04 01:08:14 INFO  program -9:306 - log in as Admin
+2021-06-04 01:08:18 INFO  program -9:308 - deleting modified user 1
+2021-06-04 01:08:26 INFO  program -9:314 - deleting modified user 1
+2021-06-04 01:08:26 INFO  program -9:315 - =====================================================================================================================
+2021-06-04 01:08:26 INFO  program -9:326 - logging out from ACTITIME website
+2021-06-04 01:08:26 INFO  program -9:328 - closing the browser
+2021-06-04 01:08:26 INFO  program -9:329 - ************************************************************************
+2021-06-05 15:49:43 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 15:49:43 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 15:49:46 INFO  program -1:56 - Logging in as admin
+2021-06-05 15:49:51 INFO  program -1:90 - creating  users
+2021-06-05 15:49:55 INFO  program -1:114 - Deleting users
+2021-06-05 15:49:55 INFO  program -1:135 - logging out from ACTITIME website
+2021-06-05 15:49:55 INFO  program -1:149 - closing the browser
+2021-06-05 15:49:55 INFO  program -1:151 - ************************************************************************
+2021-06-05 15:51:21 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 15:51:21 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 15:51:24 INFO  program -1:56 - Logging in as admin
+2021-06-05 15:51:28 INFO  program -1:75 - minimizing fly out window
+2021-06-05 15:51:29 INFO  program -1:89 - creating  users
+2021-06-05 15:51:38 INFO  program -1:102 - created  users
+2021-06-05 15:51:38 INFO  program -1:113 - Deleting users
+2021-06-05 15:51:45 INFO  program -1:121 - Deleted users
+2021-06-05 15:51:45 INFO  program -1:134 - logging out from ACTITIME website
+2021-06-05 15:51:46 INFO  program -1:148 - closing the browser
+2021-06-05 15:51:46 INFO  program -1:150 - ************************************************************************
+2021-06-05 15:52:15 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 15:52:15 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 15:52:18 INFO  program -1:56 - Logging in as admin
+2021-06-05 15:52:19 INFO  program -1:75 - minimizing fly out window
+2021-06-05 15:52:19 INFO  program -1:89 - creating  users
+2021-06-05 15:52:19 INFO  program -1:113 - Deleting users
+2021-06-05 15:52:19 INFO  program -1:134 - logging out from ACTITIME website
+2021-06-05 15:52:19 INFO  program -1:148 - closing the browser
+2021-06-05 15:52:23 INFO  program -1:150 - ************************************************************************
+2021-06-05 15:52:39 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 15:52:39 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 15:52:42 INFO  program -1:56 - Logging in as admin
+2021-06-05 15:52:43 INFO  program -1:75 - minimizing fly out window
+2021-06-05 15:52:43 INFO  program -1:89 - creating  users
+2021-06-05 15:52:43 INFO  program -1:113 - Deleting users
+2021-06-05 15:52:43 INFO  program -1:134 - logging out from ACTITIME website
+2021-06-05 15:52:43 INFO  program -1:148 - closing the browser
+2021-06-05 15:52:43 INFO  program -1:150 - ************************************************************************
+2021-06-05 15:54:15 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 15:54:15 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 15:54:18 INFO  program -1:58 - Logging in as admin
+2021-06-05 15:54:19 INFO  program -1:77 - minimizing fly out window
+2021-06-05 15:54:19 INFO  program -1:91 - creating  users
+2021-06-05 15:54:19 INFO  program -1:115 - Deleting users
+2021-06-05 15:54:19 INFO  program -1:136 - logging out from ACTITIME website
+2021-06-05 15:54:19 INFO  program -1:150 - closing the browser
+2021-06-05 15:54:23 INFO  program -1:152 - ************************************************************************
+2021-06-05 15:59:55 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 15:59:56 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:00:01 INFO  program -1:58 - Logging in as admin
+2021-06-05 16:00:02 INFO  program -1:77 - minimizing fly out window
+2021-06-05 16:00:02 INFO  program -1:91 - creating  users
+2021-06-05 16:00:02 INFO  program -1:115 - Deleting users
+2021-06-05 16:00:02 INFO  program -1:136 - logging out from ACTITIME website
+2021-06-05 16:00:02 INFO  program -1:150 - closing the browser
+2021-06-05 16:00:06 INFO  program -1:152 - ************************************************************************
+2021-06-05 16:00:38 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:00:38 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:00:41 INFO  program -1:58 - Logging in as admin
+2021-06-05 16:00:42 INFO  program -1:77 - minimizing fly out window
+2021-06-05 16:00:42 INFO  program -1:91 - creating  users
+2021-06-05 16:00:42 INFO  program -1:115 - Deleting users
+2021-06-05 16:00:42 INFO  program -1:136 - logging out from ACTITIME website
+2021-06-05 16:00:42 INFO  program -1:150 - closing the browser
+2021-06-05 16:00:46 INFO  program -1:152 - ************************************************************************
+2021-06-05 16:01:04 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:01:04 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:01:07 INFO  program -1:58 - Logging in as admin
+2021-06-05 16:01:08 INFO  program -1:77 - minimizing fly out window
+2021-06-05 16:01:08 INFO  program -1:91 - creating  users
+2021-06-05 16:01:08 INFO  program -1:115 - Deleting users
+2021-06-05 16:01:08 INFO  program -1:136 - logging out from ACTITIME website
+2021-06-05 16:01:08 INFO  program -1:150 - closing the browser
+2021-06-05 16:01:12 INFO  program -1:152 - ************************************************************************
+2021-06-05 16:01:44 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:01:44 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:01:47 INFO  program -1:58 - Logging in as admin
+2021-06-05 16:01:48 INFO  program -1:77 - minimizing fly out window
+2021-06-05 16:01:48 INFO  program -1:91 - creating  users
+2021-06-05 16:01:48 INFO  program -1:115 - Deleting users
+2021-06-05 16:01:48 INFO  program -1:136 - logging out from ACTITIME website
+2021-06-05 16:01:48 INFO  program -1:150 - closing the browser
+2021-06-05 16:01:52 INFO  program -1:152 - ************************************************************************
+2021-06-05 16:20:54 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:20:54 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:20:57 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:20:58 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:20:58 INFO  program -1:92 - creating  users
+2021-06-05 16:20:59 INFO  program -1:116 - Deleting users
+2021-06-05 16:20:59 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:20:59 INFO  program -1:151 - closing the browser
+2021-06-05 16:20:59 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:22:45 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:22:45 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:22:48 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:22:49 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:22:49 INFO  program -1:92 - creating  users
+2021-06-05 16:22:49 INFO  program -1:116 - Deleting users
+2021-06-05 16:22:49 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:22:49 INFO  program -1:151 - closing the browser
+2021-06-05 16:22:53 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:23:38 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:23:38 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:23:41 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:23:42 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:23:42 INFO  program -1:92 - creating  users
+2021-06-05 16:23:42 INFO  program -1:116 - Deleting users
+2021-06-05 16:23:42 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:23:42 INFO  program -1:151 - closing the browser
+2021-06-05 16:23:46 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:24:07 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:24:07 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:24:10 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:24:12 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:24:12 INFO  program -1:92 - creating  users
+2021-06-05 16:24:12 INFO  program -1:116 - Deleting users
+2021-06-05 16:24:12 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:24:12 INFO  program -1:151 - closing the browser
+2021-06-05 16:24:16 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:32:17 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:32:17 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:32:20 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:32:22 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:32:22 INFO  program -1:92 - creating  users
+2021-06-05 16:32:22 INFO  program -1:116 - Deleting users
+2021-06-05 16:32:22 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:32:22 INFO  program -1:151 - closing the browser
+2021-06-05 16:32:26 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:34:22 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:34:22 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:34:25 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:34:27 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:34:27 INFO  program -1:92 - creating  users
+2021-06-05 16:34:27 INFO  program -1:116 - Deleting users
+2021-06-05 16:34:27 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:34:27 INFO  program -1:151 - closing the browser
+2021-06-05 16:34:32 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:35:16 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:35:17 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:35:20 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:35:22 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:35:22 INFO  program -1:92 - creating  users
+2021-06-05 16:35:22 INFO  program -1:116 - Deleting users
+2021-06-05 16:35:22 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:35:22 INFO  program -1:151 - closing the browser
+2021-06-05 16:35:26 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:36:23 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:36:23 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:36:26 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:36:28 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:36:28 INFO  program -1:92 - creating  users
+2021-06-05 16:36:28 INFO  program -1:116 - Deleting users
+2021-06-05 16:36:28 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:36:28 INFO  program -1:151 - closing the browser
+2021-06-05 16:36:32 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:37:14 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:37:15 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:37:18 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:37:20 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:37:20 INFO  program -1:92 - creating  users
+2021-06-05 16:37:20 INFO  program -1:116 - Deleting users
+2021-06-05 16:37:20 INFO  program -1:137 - logging out from ACTITIME website
+2021-06-05 16:37:20 INFO  program -1:151 - closing the browser
+2021-06-05 16:37:24 INFO  program -1:153 - ************************************************************************
+2021-06-05 16:41:47 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:41:47 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:41:50 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:41:54 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:41:56 INFO  program -1:94 - creating  users
+2021-06-05 16:42:12 INFO  program -1:118 - Deleting users
+2021-06-05 16:42:25 INFO  program -1:139 - logging out from ACTITIME website
+2021-06-05 16:42:37 INFO  program -1:153 - closing the browser
+2021-06-05 16:42:49 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:42:49 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:42:52 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:42:56 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:42:57 INFO  program -1:94 - creating  users
+2021-06-05 16:54:38 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:54:38 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:54:42 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:54:46 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:54:47 INFO  program -1:94 - creating  users
+2021-06-05 16:54:57 INFO  program -1:107 - created  users
+2021-06-05 16:54:57 INFO  program -1:118 - Deleting users
+2021-06-05 16:55:04 INFO  program -1:126 - Deleted users
+2021-06-05 16:55:04 INFO  program -1:139 - logging out from ACTITIME website
+2021-06-05 16:55:05 INFO  program -1:153 - closing the browser
+2021-06-05 16:55:05 INFO  program -1:155 - ************************************************************************
+2021-06-05 16:58:30 INFO  program -1:25 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 16:58:30 INFO  program -1:40 - navigating to ACTITIME url
+2021-06-05 16:58:33 INFO  program -1:59 - Logging in as admin
+2021-06-05 16:58:38 INFO  program -1:78 - minimizing fly out window
+2021-06-05 16:58:39 INFO  program -1:94 - creating  users
+2021-06-05 16:58:51 INFO  program -1:118 - Deleting users
+2021-06-05 16:59:03 INFO  program -1:139 - logging out from ACTITIME website
+2021-06-05 17:02:35 INFO  program -1:26 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 17:02:35 INFO  program -1:41 - navigating to ACTITIME url
+2021-06-05 17:02:38 INFO  program -1:61 - Logging in as admin
+2021-06-05 17:02:43 INFO  program -1:80 - minimizing fly out window
+2021-06-05 17:02:43 INFO  program -1:96 - creating  users
+2021-06-05 17:02:43 INFO  program -1:120 - Deleting users
+2021-06-05 17:02:43 INFO  program -1:141 - logging out from ACTITIME website
+2021-06-05 17:02:43 INFO  program -1:155 - closing the browser
+2021-06-05 17:02:43 INFO  program -1:157 - ************************************************************************
+2021-06-05 17:04:25 INFO  program -1:26 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 17:04:25 INFO  program -1:41 - navigating to ACTITIME url
+2021-06-05 17:04:28 INFO  program -1:61 - Logging in as admin
+2021-06-05 17:04:33 INFO  program -1:80 - minimizing fly out window
+2021-06-05 17:04:34 INFO  program -1:96 - creating  users
+2021-06-05 17:04:41 INFO  program -1:120 - Deleting users
+2021-06-05 17:04:41 INFO  program -1:141 - logging out from ACTITIME website
+2021-06-05 17:04:41 INFO  program -1:155 - closing the browser
+2021-06-05 17:04:41 INFO  program -1:157 - ************************************************************************
+2021-06-05 17:05:21 INFO  program -1:26 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-05 17:05:22 INFO  program -1:41 - navigating to ACTITIME url
+2021-06-05 17:05:25 INFO  program -1:61 - Logging in as admin
+2021-06-05 17:05:26 INFO  program -1:80 - minimizing fly out window
+2021-06-05 17:05:26 INFO  program -1:96 - creating  users
+2021-06-05 17:05:26 INFO  program -1:120 - Deleting users
+2021-06-05 17:05:26 INFO  program -1:141 - logging out from ACTITIME website
+2021-06-05 17:05:26 INFO  program -1:155 - closing the browser
+2021-06-05 17:05:30 INFO  program -1:157 - ************************************************************************
+2021-06-06 18:43:46 INFO  For Loop Output:12 - The Execution of For Loop Starts Here!!!!!
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :20
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :22
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :24
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :26
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :28
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :30
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :32
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :34
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :36
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :38
+2021-06-06 18:43:46 INFO  For Loop Output:16 - The Even Number is :40
+2021-06-06 18:43:46 INFO  For Loop Output:19 - The Execution of For Loop ends Here!!!!!
+2021-06-06 18:45:28 INFO  program -1:26 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-06 18:45:28 INFO  program -1:41 - navigating to ACTITIME url
+2021-06-06 18:45:31 INFO  program -1:61 - Logging in as admin
+2021-06-06 18:45:32 INFO  program -1:80 - minimizing fly out window
+2021-06-06 18:45:32 INFO  program -1:96 - creating  users
+2021-06-06 18:45:32 INFO  program -1:120 - Deleting users
+2021-06-06 18:45:32 INFO  program -1:141 - logging out from ACTITIME website
+2021-06-06 18:45:33 INFO  program -1:156 - closing the browser
+2021-06-06 18:45:37 INFO  program -1:158 - ************************************************************************
+2021-06-06 18:46:17 INFO  program -1:26 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-06 18:46:17 INFO  program -1:41 - navigating to ACTITIME url
+2021-06-06 18:46:20 INFO  program -1:61 - Logging in as admin
+2021-06-06 18:46:21 INFO  program -1:80 - minimizing fly out window
+2021-06-06 18:46:21 INFO  program -1:96 - creating  users
+2021-06-06 18:46:21 INFO  program -1:120 - Deleting users
+2021-06-06 18:46:21 INFO  program -1:141 - logging out from ACTITIME website
+2021-06-06 18:46:21 INFO  program -1:156 - closing the browser
+2021-06-06 18:46:25 INFO  program -1:158 - ************************************************************************
+2021-06-06 18:47:03 INFO  program -1:26 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-06 18:47:04 INFO  program -1:41 - navigating to ACTITIME url
+2021-06-06 18:47:06 INFO  program -1:61 - Logging in as admin
+2021-06-06 18:47:08 INFO  program -1:80 - minimizing fly out window
+2021-06-06 18:47:08 INFO  program -1:96 - creating  users
+2021-06-06 18:47:08 INFO  program -1:120 - Deleting users
+2021-06-06 18:47:08 INFO  program -1:141 - logging out from ACTITIME website
+2021-06-06 18:47:08 INFO  program -1:156 - closing the browser
+2021-06-06 18:47:12 INFO  program -1:158 - ************************************************************************
+2021-06-06 18:47:47 INFO  program -1:26 - opening Chrome browser Starting ChromeDriver 90.0.4430.24, ChromeDriver was started successfully.
+2021-06-06 18:47:47 INFO  program -1:41 - navigating to ACTITIME url
+2021-06-06 18:47:50 INFO  program -1:61 - Logging in as admin
+2021-06-06 18:47:54 INFO  program -1:80 - minimizing fly out window
+2021-06-06 18:47:56 INFO  program -1:96 - creating  users
+2021-06-06 18:48:04 INFO  program -1:109 - created  users
+2021-06-06 18:48:04 INFO  program -1:120 - Deleting users
+2021-06-06 18:48:12 INFO  program -1:128 - Deleted users
+2021-06-06 18:48:12 INFO  program -1:141 - logging out from ACTITIME website
+2021-06-06 18:48:12 INFO  program -1:156 - closing the browser
+2021-06-06 18:48:12 INFO  program -1:158 - ************************************************************************

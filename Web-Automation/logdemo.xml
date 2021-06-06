@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+	<test name="Scenario1">
+		<classes>
+			<class
+				name="com.sgtesting.assignmentTestNG.AsignmtProgramTestNG1"></class>
+
+
+		</classes>
+	</test>
+</suite>
