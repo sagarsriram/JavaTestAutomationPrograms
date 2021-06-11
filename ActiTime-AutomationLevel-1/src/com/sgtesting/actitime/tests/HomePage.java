@@ -20,7 +20,7 @@ public class HomePage extends Initialization{
 	{
 		try
 		{
-			oBrowser.findElement(By.id("gettingStartedShortcutsPanelId")).click();
+			getbrowser.findElement(By.id("gettingStartedShortcutsPanelId")).click();
 			Thread.sleep(1000);
 		}catch(Exception e)
 		{

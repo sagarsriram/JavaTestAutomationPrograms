@@ -20,9 +20,9 @@ public class LoginLogout extends Initialization{
 	{
 		try
 		{
-			oBrowser.findElement(By.id("username")).sendKeys("admin");
-			oBrowser.findElement(By.name("pwd")).sendKeys("manager");
-			oBrowser.findElement(By.xpath("//div[text()='Login ']")).click();
+			getbrowser.findElement(By.id("username")).sendKeys("admin");
+			getbrowser.findElement(By.name("pwd")).sendKeys("manager");
+			getbrowser.findElement(By.xpath("//div[text()='Login ']")).click();
 			Thread.sleep(5000);
 		}catch(Exception e)
 		{
@@ -45,7 +45,7 @@ public class LoginLogout extends Initialization{
 	{
 		try
 		{
-			oBrowser.findElement(By.linkText("Logout")).click();
+			getbrowser.findElement(By.linkText("Logout")).click();
 			Thread.sleep(2000);
 		}catch(Exception e)
 		{
