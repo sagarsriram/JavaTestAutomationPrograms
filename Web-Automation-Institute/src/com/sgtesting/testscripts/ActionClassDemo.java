@@ -20,7 +20,7 @@ public class ActionClassDemo {
 	{
 		try
 		{
-			System.setProperty("webdriver.chrome.driver", "F:\\ExampleAutomation\\Web-Automation\\Library\\drivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "D:\\CurrentWorkspace\\JavaTestAutomationPrograms\\Web-Automation-Institute\\Library\\drivers\\chromedriver.exe");
 			oBrowser=new ChromeDriver();
 			oBrowser.manage().window().maximize();
 		}catch(Exception e)
@@ -52,7 +52,7 @@ public class ActionClassDemo {
 			Actions oMouse=new Actions(oBrowser);
 			oMouse.moveToElement(oEle).build().perform();
 			Thread.sleep(2000);
-			oBrowser.findElement(By.xpath("//div[@class='_3XS_gI']/a[3]")).click();
+			oBrowser.findElement(By.xpath("//div[@class='_3XS_gI']/a[2]")).click();
 			Thread.sleep(2000);
 		}catch(Exception e)
 		{
