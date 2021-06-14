@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59930" started-at="2021-06-13T02:30:43 IST" finished-at="2021-06-13T02:31:43 IST">
+  <suite name="Default suite" duration-ms="1314" started-at="2021-06-14T18:02:43 IST" finished-at="2021-06-14T18:02:44 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59930" started-at="2021-06-13T02:30:43 IST" finished-at="2021-06-13T02:31:43 IST">
+    <test name="Default test" duration-ms="1314" started-at="2021-06-14T18:02:43 IST" finished-at="2021-06-14T18:02:44 IST">
       <class name="com.sgtesting.actitime.driverscript.DriverScripts">
-        <test-method status="PASS" signature="loadFiles()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScripts@7a187f14]" name="loadFiles" is-config="true" duration-ms="20" started-at="2021-06-13T02:30:43 IST" finished-at="2021-06-13T02:30:43 IST">
+        <test-method status="PASS" signature="loadFiles()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScripts@7a187f14]" name="loadFiles" is-config="true" duration-ms="10" started-at="2021-06-14T18:02:43 IST" finished-at="2021-06-14T18:02:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadFiles -->
-        <test-method status="PASS" signature="executeScenarios()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScripts@7a187f14]" name="executeScenarios" duration-ms="59829" started-at="2021-06-13T02:30:43 IST" finished-at="2021-06-13T02:31:43 IST">
+        <test-method status="PASS" signature="executeScenarios()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScripts@7a187f14]" name="executeScenarios" duration-ms="1261" started-at="2021-06-14T18:02:43 IST" finished-at="2021-06-14T18:02:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- executeScenarios -->
